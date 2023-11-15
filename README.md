@@ -1,5 +1,5 @@
 <div align="center">
-  <img max-width="800" src="https://github.com/mercurystudio99/mercurystudio99/blob/main/assets/dart.jpg"/>
+  <img max-width="800" src="https://github.com/mercurystudio99/mercurystudio99/blob/main/assets/dart.png"/>
 </div>
 
 <details>
